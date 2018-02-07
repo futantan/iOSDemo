@@ -33,8 +33,4 @@ class DemoTests: XCTestCase {
         }
     }
     
-    func testForDemo() {
-        XCTAssertEqual(true, false)
-    }
-    
 }
